@@ -1211,7 +1211,7 @@ ISC License
 <!-- TODO: Add full license text or LICENSE file -->
 
 ```
-Copyright (c) 2025 <!-- TODO: author name -->
+Copyright (c) 2025 <!--Vansh Rekhi -->
 
 Permission to use, copy, modify, and/or distribute this software for any purpose
 with or without fee is hereby granted, provided that the above copyright notice
